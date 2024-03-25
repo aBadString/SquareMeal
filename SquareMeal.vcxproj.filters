@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="TinyEngineCore">
+      <UniqueIdentifier>{82c1183c-d64b-4682-bf53-4d0c84c52646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{68cfc256-f24a-4e21-a7c6-171d9e7e0fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyEngine">
+      <UniqueIdentifier>{b35a9a62-0e27-471b-8a2d-51f42f197e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BlockSprite">
+      <UniqueIdentifier>{ef5b76c9-9624-4a37-8dfb-2c94cbca3eab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{dc079c44-c98b-442c-94f0-f3698b46af87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NPC">
+      <UniqueIdentifier>{83ddbc6b-45ec-4bab-a692-1975a0f1fe62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TinyEngineCore\T_AI.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Audio.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Display.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Engine.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Graph.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Map.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Menu.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Scene.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Sprite.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyEngineCore\T_Util.cpp">
+      <Filter>TinyEngineCore</Filter>
+    </ClCompile>
+    <ClCompile Include="MainEngine.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenu.cpp">
+      <Filter>MyEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneSprite.cpp">
+      <Filter>BlockSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockSprite.cpp">
+      <Filter>BlockSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="WoodSprite.cpp">
+      <Filter>BlockSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSprite.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="NpcSprite.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="NpcSpriteTortoise.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TinyEngineCore\T_AI.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Audio.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Config.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Display.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Engine.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Graph.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Layer.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Map.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Menu.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Scene.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Sprite.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyEngineCore\T_Util.h">
+      <Filter>TinyEngineCore</Filter>
+    </ClInclude>
+    <ClInclude Include="MainEngine.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>MyEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="My_Config.h">
+      <Filter>MyEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneSprite.h">
+      <Filter>BlockSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockSprite.h">
+      <Filter>BlockSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="WoodSprite.h">
+      <Filter>BlockSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSprite.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcSprite.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcSpriteTortoise.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

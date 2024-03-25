@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="T_AI" Collapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAAAAAAAAAAAAAAAACBAAAUgAAAAAEIAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_AI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioWave" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAIAAAAACAAAAgAgCAAAACAAAEAICgAQA=</HashCode>
+      <FileName>TinyEngineCore\T_Audio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDXBuffer">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUQAAAAAAAAAAgAAAAAKAgAAAAAAAABAoAMEABAAAQA=</HashCode>
+      <FileName>TinyEngineCore\T_Audio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioDX">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAAAAAAAAAAABAgAAAAgAAAEQAAACAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Audio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Display" Collapsed="true">
+    <Position X="24.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAEAAAAAAAAAAAAIAAAEAAIAgAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Engine" Collapsed="true">
+    <Position X="8.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAChAaAQASAKABgDAkEADgSgCAAkAAQSIQCQRAgIIAQ=</HashCode>
+      <FileName>TinyEngineCore\T_Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Graph" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAEAAACQAQCABABAQkAACQAAgAAAECA=</HashCode>
+      <FileName>TinyEngineCore\T_Graph.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Layer" Collapsed="true">
+    <Position X="3.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAABICIEgAABEACBEBAAARAAgAMYAAAAEAAYAQ=</HashCode>
+      <FileName>TinyEngineCore\T_Layer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Map" Collapsed="true">
+    <Position X="2.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAAIQAACgAhBgBAAAAwAASBBABIAAAABAAEMQAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Menu" Collapsed="true">
+    <Position X="11" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAMBAAgAEAACACAIAAECJAADAACJIBAIiAAAAjICMAI=</HashCode>
+      <FileName>TinyEngineCore\T_Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Scene" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAWMAKgAABSwAJgAAAJAAAAAQMYQwgIAAAAUAAAgA=</HashCode>
+      <FileName>TinyEngineCore\T_Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Sprite" Collapsed="true">
+    <Position X="4.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgEoECESCCokAgEqg4ODOZABEMAVoIQBgAo4DqACA=</HashCode>
+      <FileName>TinyEngineCore\T_Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T_Util" Collapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAgAAgAAACAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>TinyEngineCore\T_Util.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainEngine" Collapsed="true">
+    <Position X="8.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAQAwABABCAAFYiAAiqEYAAIAAADFABJCwBkIBAA=</HashCode>
+      <FileName>MainEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMenu" Collapsed="true">
+    <Position X="11" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAABACAQADARAIAAAAkAIABEAA4AAAAAAQCCAACAAAA=</HashCode>
+      <FileName>GameMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSprite" Collapsed="true">
+    <Position X="4.5" Y="12.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAggAAABAgIQAAAAAACYgIgAAIAQAAIQgCAEQYBAQ=</HashCode>
+      <FileName>PlayerSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlockSprite" Collapsed="true">
+    <Position X="1.75" Y="12.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAAA=</HashCode>
+      <FileName>BlockSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoneSprite" Collapsed="true">
+    <Position X="0.5" Y="14" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>StoneSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodSprite" Collapsed="true">
+    <Position X="3.25" Y="14" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>WoodSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NpcSprite" Collapsed="true">
+    <Position X="6.75" Y="12.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAlAAAAQAAAAAQAiAAgBAAAAAYQAAAAAAAAAgAAAA=</HashCode>
+      <FileName>NpcSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NpcSpriteTortoise" Collapsed="true">
+    <Position X="6.75" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQQAAAFAAAAAAAAAAAAAAAKAAAARAAAAAAA=</HashCode>
+      <FileName>NpcSpriteTortoise.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MoveCoord">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TinyEngineCore\T_AI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_000b_1">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIggAAAAAAABAAAAADApAAAACAAAYAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_000b_2">
+    <Position X="2.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIQAAEAAAAAAgAAAwAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_000b_3">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_000b_4">
+    <Position X="9.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgEAQAQAAAAAAAAAQAACAAIAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0018_1">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Scene.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="SPRITEINFO" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LAYERINFO" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MENUITEM" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MENU_INFO" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GAMELAYER" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Scene.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SCENE_LAYERS" Collapsed="true">
+    <Position X="12" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Scene.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="vectSpriteSet" Collapsed="true">
+    <Position X="12" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>My_Config.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="GAME_DIR">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAIIAAAAAgAAChAAIAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TRANSFER">
+    <Position X="5.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAQBAAAAEAAAAAQAEEgQAAAAIAAAAAAAAAABAAAEAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GAME_STATE">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAKlACACAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KM_ACTION">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAgAAAAAAAAAAABAAAAAAAgAAAADAAA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LAYER_TYPE">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAQAAAAIABAAAQAAAAICAAAEAAQAAEA=</HashCode>
+      <FileName>TinyEngineCore\T_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BLOCK_TYPE">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>My_Config.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
